@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Jadwal Sholat</string>
+    <string name="login">LOGIN</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_acount">Dont Have Acount?</string>
+    <string name="register">Register</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="pria">Laki-Lakai</string>
+    <string name="wanita">wanita</string>
+    <string name="email">Email</string>
+    <string name="aggre">Dengan ini saya menyutujui kebijakan dan privasi</string>
+    <string name="acountNotRegist">Akun Tidak Terdaftar!</string>
+    <string name="pleaseRegister">Silahkan Register Terlebih Dahulu</string>
+    <string name="logout">Logout</string>
+    <string name="succesRegister">Berhasil mendaftar</string>
+    <string name="cautionSuscces">Silahkan Login</string>
+    <string name="seting">Setting</string>
+    <string name="nama_user">nama user</string>
+    <string name="nama">nama</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="simpan">Simpan Perubahan</string>
+    <string name="oldpass">Old Password</string>
+    <string name="selamat_datang">selamat datang!!</string>
+    <string name="prayScedule">Pray Time</string>
+    <string name="descriptionImage">descripet gambar</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Syuruk</string>
+    <string name="isyaa">Isya</string>
+    <string name="Zuhur">Zuhur</string>
+    <string name="Mangrib">Magrib</string>
+    <string name="Morning">Morning</string>
+    <string name="subuh">Subuh</string>
+    <string name="syuruk">Syuruk</string>
+    <string name="badConetction">You Don\'t have Internet Conetction</string>
+</resources>
